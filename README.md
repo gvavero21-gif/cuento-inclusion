@@ -1,2 +1,0 @@
-# cuento-inclusion
-Juego
